@@ -10,3 +10,6 @@ Vamos a darle un poco de estilo a nuestro contenido
 
 Puedes tomar el ejemplo de 
 [éste link de referencia](index.html)
+
+
+[paso 3](https://github.com/alexanderjaramillo4iep/flexbox/tree/master/paso3/)

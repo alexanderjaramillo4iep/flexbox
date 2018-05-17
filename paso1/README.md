@@ -11,3 +11,5 @@ Vamos a crear un esquema básico para validar el funcionamiento de flexbox
 
 Puedes tomar el ejemplo de 
 [éste link de referencia](index.html)
+
+[paso 2](https://github.com/alexanderjaramillo4iep/flexbox/tree/master/paso2/)

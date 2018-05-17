@@ -22,3 +22,5 @@ No es obligatorio utilizar las clases container e item, solo que para nuestro ca
 
 Puedes tomar el ejemplo de 
 [éste link de referencia](index.html)
+
+[paso 4](https://github.com/alexanderjaramillo4iep/flexbox/tree/master/paso4/)
