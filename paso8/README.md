@@ -6,6 +6,7 @@ Todas las propiedades que hemos visto hasta el momento, se utilizan en el conten
 
 Ahora, vamos a ver algunas propiedades que tienen los hijos; es decir los componentes <code>.item</code>
 
+## ________________________________
 ### Propiedad de orden de los hijos
 
 <code>order: 2; </code> (el valor por defecto es 0) en el <code>.item</code> y se le pone a cada elemento diciendo en que orden aparecerá
